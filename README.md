@@ -4,3 +4,5 @@ Hongcheng Qian
 
 ## Introduction
 This is AMS595 assignment 1. 
+Here is the result of plot
+<img decoding="async" src="">
